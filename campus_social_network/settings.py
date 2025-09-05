@@ -22,7 +22,7 @@ SECRET_KEY = 'django-insecure-=^b&t72*!=&%wdphzwk28gw@b09_f-z844jlfpr)^z_0v+c9y%
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['campus-social-networkg.onrender.com']
 
 
 # Application definition
